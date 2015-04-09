@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "grid-8px",
+  "description": "Show an 8px document grid on Ctrl+g",
+  "version": "0.1",
+  "content_scripts": [ {
+    "js": [ "content.js" ],
+    "matches": [ "*://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://cdn.rawgit.com; object-src 'self'"
+}
