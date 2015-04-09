@@ -1,6 +1,6 @@
 # grid-8px
 
-Shows an 8px document grid in your browser like the one I use in Sketch. Toggle with Ctrl+g or hold down Alt/Option key.
+Shows an 8px [document grid](https://helpx.adobe.com/indesign/using/grids.html) in your browser like the one I use in Sketch. Toggle with Ctrl+g or hold down Alt/Option key.
 
 Load the script through [Rawgit](http://rawgit.com/) using 
   - https://cdn.rawgit.com/tomger/grid-8px/master/grid-8px.js (auto updates)
