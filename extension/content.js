@@ -1,5 +1,5 @@
 (function(d){
-  var path = "https://cdn.rawgit.com/tomger/grid-8px/master/grid-8px.js";
+  var path = "https://cdn.jsdelivr.net/gh/tomger/grid-8px/grid-8px.js";
   var e = d.createElement('script');
   e.setAttribute('type','text/javascript');
   e.setAttribute('src', path);
